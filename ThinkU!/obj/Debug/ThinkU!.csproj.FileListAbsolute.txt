@@ -1,0 +1,15 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\bin\Debug\ThinkU!.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\bin\Debug\ThinkU!.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\bin\Debug\ThinkU!.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\bin\Debug\Interop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\bin\Debug\AxInterop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\ThinkU!.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\Interop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\AxInterop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\ThinkU!.csproj.ResolveComReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\ThinkU_.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\ThinkU_.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\ThinkU!.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\ThinkU!.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ThinkU!\ThinkU!\obj\Debug\ThinkU!.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\ThinkU!\ThinkU!\bin\Debug\MaterialSkin.dll
